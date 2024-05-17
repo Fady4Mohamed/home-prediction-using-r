@@ -86,5 +86,5 @@ by using
 
 
 ## ui
+![WhatsApp Image 2024-05-18 at 02 44 17_130128d7](https://github.com/Fady4Mohamed/home-prediction-using-r/assets/132343355/7f48d10d-6bfc-41d8-b759-68003b2887e2)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
